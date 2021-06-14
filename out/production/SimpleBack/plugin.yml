@@ -1,0 +1,13 @@
+name: SimpleBack
+main: com.company.Main
+author: t2o0n321
+version: 1.0
+api-version: 1.16
+commands:
+  back:
+    description: back to the death position
+    usage: /back
+    aliases:
+      - back
+      - IWillBeBack
+      - b
